@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    padding: 20px;
+    background-color: linen;
+}
+.navbar ul {
+    width: 100%;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    
+}
+
+.navbar a {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+.navbar li {
+    float: left;
+    padding-left: 60px;
+}
+
+.navbar button {
+    float: right;
+    border-radius: 10px;
+    font-size: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(194, 23, 23);
+}   
+
+.white-text {
+    color: white;
+    border-collapse: collapse;
+}
+
+.aboutus {
+    display: block;
+    margin-top: 40px;
+    background-color: skyblue;
+    padding: 15px;
+
+}
+
+.aboutus img {
+    float: right;
+    width: 30%;
+    padding-right: 20px;
+}
+
+.aboutus h1 {
+    text-align: center;
+}  
+
+.ourmission {
+}   
+
+.ourmission img {
+    float: right;
+    width: 250px;
+}
+
+.ourmission h1 {
+    text-align: center;
+}
+
+.ourstory {
+
+}
+
+.hubspot {
+
+}
+
+.global {
+
+}
+
+.employee {
+
+}
+
+.customers {
+
+}
